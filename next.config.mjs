@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath:"/WHE",
+    basePath:"/NXT",
     output:"export",
     reactStrictMode:true
 
