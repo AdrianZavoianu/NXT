@@ -2,7 +2,7 @@
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
-    basePath: "/NXT",
+    // basePath: "/NXT",
     output: "export",
     reactStrictMode: true,
   }
