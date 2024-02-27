@@ -17,7 +17,7 @@ export default function Navbar({}:Props){
                 <MdOutlineMyLocation className="text-3xl text-gray-400 hover:opacity-80 cursor-pointer" />
                 <IoLocationSharp className="text-3xl" />
                 <p className="text-slate-900/80 text-lg">India</p>
-                <SearchBox/>
+                <SearchBox value="Delhi" onChange={()=>{}} onSubmit={()=>{}}/>
             </section>
 
         </div>
